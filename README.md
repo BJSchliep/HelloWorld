@@ -8,9 +8,9 @@ This is a basic Hello World program. I created this to demonstrate the use of Vi
 
 # Development Environment
 
-*Visual Studio Code
-*Python 3.10.4 64-bit
-*Git and Github
+* Visual Studio Code
+* Python 3.10.4 64-bit
+* Git and Github
 
 {Describe the programming language that you used}
 
