@@ -10,8 +10,6 @@ This is a basic Hello World program. I created this to demonstrate the use of Vi
 * Python 3.10.4 64-bit
 * Git and Github
 
-{Describe the programming language that you used}
-
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
