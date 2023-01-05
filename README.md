@@ -12,6 +12,5 @@ This is a basic Hello World program. I created this to demonstrate the use of Vi
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Visual Studio Code and Github]https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Video Walk through](https://video.byui.edu/media/t/1_zyyx43ke)
